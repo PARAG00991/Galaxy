@@ -1,4 +1,4 @@
-# Galaxy
+# SSH Testing
 my first Github repository
 
 As I am a new user here on Github, so I am starting with writing some information regarding myself only(for eg. my likes and dislikes :D ).
